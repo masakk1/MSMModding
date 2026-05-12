@@ -1,0 +1,9 @@
+﻿File,Duration,Character,Action,Speak
+00008 (0x04FC).dsp.wav,1.349600,Daisy,gameintro,
+00010 (0x055E).dsp.wav,1.443400,Toad,gameintro,
+00011 (0x055F).dsp.wav,1.390250,Toadette,gameintro,
+00012 (0x0560).dsp.wav,1.616600,Luigi,gameintro,
+00013 (0x0561).dsp.wav,1.462800,Mario,gameintro,
+00051 (0x05E7).dsp.wav,1.092700,Peach,gameintro,
+00052 (0x05EE).dsp.wav,1.271250,Wario,gameintro,
+00053 (0x05EF).dsp.wav,2.014250,Waluigi,gameintro

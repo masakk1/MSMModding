@@ -1,0 +1,23 @@
+﻿File,Duration,Character,Action,Speak
+00000 (0x016C).dsp.wav,2.408800,Daisy,isuperstar,X
+00001 (0x016D).dsp.wav,2.066350,Daisy,wesuperstar,X
+00002 (0x01A2).dsp.wav,1.848650,Toad,isuperstar,
+00003 (0x01A3).dsp.wav,2.167900,Toad,wesuperstar,
+00004 (0x01BC).dsp.wav,2.582450,Toadette,isuperstar,
+00005 (0x01BD).dsp.wav,1.808000,Toadette,wesuperstar,
+00006 (0x01D9).dsp.wav,2.382700,Luigi,isuperstar,
+00007 (0x01DA).dsp.wav,1.961850,Luigi,wesuperstar,
+00008 (0x01F1).dsp.wav,2.167900,Mario,isuperstar,
+00009 (0x01F2).dsp.wav,1.782150,Mario,wesuperstar,
+00010 (0x020B).dsp.wav,2.511750,Koopa,isuperstar,
+00011 (0x020C).dsp.wav,2.511750,Koopa,wesuperstar,
+00012 (0x0230).dsp.wav,2.905950,Peach,isuperstar,
+00013 (0x0231).dsp.wav,2.246300,Peach,wesuperstar,
+00014 (0x024B).dsp.wav,2.391750,Boo,isuperstar,
+00015 (0x024C).dsp.wav,2.391750,Boo,wesuperstar,
+00016 (0x0267).dsp.wav,4.196750,Wario,isuperstar,
+00017 (0x0268).dsp.wav,2.832600,Wario,wesuperstar,
+00018 (0x0280).dsp.wav,2.476800,Waluigi,isuperstar,
+00019 (0x0281).dsp.wav,2.272000,Waluigi,wesuperstar,
+00020 (0x0298).dsp.wav,1.498150,Yoshi,isuperstar,
+00021 (0x0299).dsp.wav,1.498150,Yoshi,wesuperstar
